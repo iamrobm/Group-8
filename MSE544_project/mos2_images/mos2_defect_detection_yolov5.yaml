@@ -1,0 +1,4 @@
+train: /home/zbyw/MSE544_project/mos2_images/train
+val: /home/zbyw/MSE544_project/mos2_images/val
+nc: 1
+names: [mos2]
