@@ -1,0 +1,19 @@
+# Virtual environment files
+MSE544_project/venv/
+venv/
+# macOS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code project settings
+.vscode/
+
+# Gradio temp files
+*.png
+*.webp
+*.csv
+*.json
+.gradio/

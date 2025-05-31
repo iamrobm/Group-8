@@ -1,0 +1,7 @@
+azureml==0.2.7
+gradio==5.32.0
+PyYAML>=6.0.1
+scikit-image
+torch==2.7.0
+opencv-python
+seaborn
